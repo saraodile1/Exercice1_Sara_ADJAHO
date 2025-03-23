@@ -1,0 +1,10 @@
+librosa
+opencv-python
+pandas
+fastavro
+pyyaml
+zipfile36
+pypdf2
+markdown
+fastparquet
+pyarrow
